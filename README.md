@@ -1,5 +1,5 @@
 > [!WARNING]
-> Only Xiaomi Global devices with EID number. The EID number can be registered on Chinese devices, but it is a difficult process.
+> Only Xiaomi devices with EID number. The EID number can be registered on Chinese devices, but it is a difficult process (requires expertise).
 
 > [!TIP]
 > If you can't find it use **Activity Launcher**.
@@ -11,7 +11,7 @@ Way to activate esim in chinese rom (Xiaomi).
 https://www.apkmirror.com/apk/xiaomi-inc/lpa/
 
 # Development
-Please extract and add the dex files and the current apk file from an up-to-date device. I do not have time.
+Please submit a pull request if the LPA Esim app is updated.
 
 # Telegram
 https://t.me/chinacloudgroup
