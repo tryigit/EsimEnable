@@ -1,5 +1,5 @@
 > [!WARNING]
-> Only Xiaomi Global devices with edi number. The Edi number can be registered on Chinese devices, but it is a difficult process.
+> Only Xiaomi Global devices with EID number. The EID number can be registered on Chinese devices, but it is a difficult process.
 
 > [!TIP]
 > If you can't find it use **Activity Launcher**.
