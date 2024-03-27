@@ -14,4 +14,4 @@ https://www.apkmirror.com/apk/xiaomi-inc/lpa/
 Please submit a pull request if the LPA Esim app is updated.
 
 # Telegram
-https://t.me/chinacloudgroup
+https://t.me/cleverestech
