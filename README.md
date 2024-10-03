@@ -4,12 +4,12 @@
 > [!TIP]
 > If you can't find it use **Activity Launcher**.
 
-# Requirements
-* Official HyperOS China Rom
-
 # Esim Enable
 Way to activate esim in china rom (Xiaomi).
 Please use stable magisk for best compatibility.
+
+# Requirements
+* Official HyperOS China Rom
 
 # Esim App Updates
 https://www.apkmirror.com/apk/xiaomi-inc/lpa/
