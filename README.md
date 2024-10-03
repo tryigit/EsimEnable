@@ -9,6 +9,7 @@ Way to activate esim in china rom (Xiaomi).
 Please use stable magisk for best compatibility.
 
 # Requirements
+* Android 11+
 * Official HyperOS China Rom
 
 # Esim App Updates
