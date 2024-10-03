@@ -1,11 +1,11 @@
-# Requirements
-* Official HyperOS China Rom
-
 > [!WARNING]
 > Only Xiaomi devices with EID number. The EID number can be registered on Chinese devices, but it is a difficult process (requires expertise).
 
 > [!TIP]
 > If you can't find it use **Activity Launcher**.
+
+# Requirements
+* Official HyperOS China Rom
 
 # Esim Enable
 Way to activate esim in china rom (Xiaomi).
