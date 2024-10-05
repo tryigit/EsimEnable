@@ -15,7 +15,7 @@ Please use stable magisk for best compatibility.
 # Esim App Updates
 https://www.apkmirror.com/apk/xiaomi-inc/lpa/
 
-# Development
+# System App Update
 Please submit a pull request if the LPA Esim app is updated.
 
 # Telegram
