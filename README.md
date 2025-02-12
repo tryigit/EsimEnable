@@ -13,7 +13,7 @@ Please use stable magisk for best compatibility.
 * Official HyperOS China Rom
 
 # Esim App Updates
-https://www.apkmirror.com/apk/xiaomi-inc/lpa/
+[ApkMirror](https://www.apkmirror.com/apk/xiaomi-inc/lpa/)
 
 # System App Update
 Please submit a pull request if the LPA Esim app is updated.
